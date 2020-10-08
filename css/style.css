@@ -1,0 +1,52 @@
+body {
+    background-image: url(./1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#LOGIN
+{
+    margin: 0 auto;
+    margin-top: 163px;
+    position: relative;
+    padding: 20px 35px;
+    background-color: #00000090;
+    text-align: center;
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+#LOGIN h1
+{
+    color: rgb(250, 249, 248);
+    margin: 30px;
+    margin-top: 25px;
+}
+
+#LOGIN .inputbox
+{
+    margin-top: 35px;
+}
+
+#LOGIN .inputbox .inputext input
+{
+    border: 0;
+    padding: 8px 8px;
+    border-bottom: 1px solid white;
+    background-color: #00000000;
+    color: wheat;
+    
+}
+
+#inputbutton
+{
+    border: 0;
+    width:150px;
+    height: 30px;
+    margin-top: 30px;
+    border-radius: 20px;
+    text-align: center;
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+}
